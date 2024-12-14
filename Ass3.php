@@ -32,3 +32,18 @@
 <body>
     <h1>University of Bahrain Students Enrollment by Nationality</h1>
     <div class="overflow-auto">
+    <table>
+        <thead>
+            <tr>
+                <th>Year</th>
+                <th>Semester</th>
+                <th>The Programs</th>
+                <th>Nationality</th>
+                <th>Colleges</th>
+                <th>Number of Students</th>
+            </tr>
+        </thead>
+        <tbody id="studentData">
+            
+        </tbody>
+    </table>
